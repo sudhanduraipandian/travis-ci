@@ -1,0 +1,10 @@
+# Language Crystal
+
+
+
+## Types
+
+* Hash
+
+
+

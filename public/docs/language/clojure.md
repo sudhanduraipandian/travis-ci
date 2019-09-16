@@ -1,0 +1,10 @@
+# Language Clojure
+
+
+
+## Types
+
+* Hash
+
+
+

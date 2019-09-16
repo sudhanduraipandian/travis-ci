@@ -1,0 +1,7 @@
+notifications:
+  slack:
+    rooms:
+      - <account>:<token>#development
+      - <account>:<token>#general
+    on_success: change # default: always
+    on_failure: always # default: always

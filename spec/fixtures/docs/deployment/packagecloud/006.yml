@@ -1,0 +1,4 @@
+deploy:
+  provider: packagecloud
+  package_glob: "*.gem"
+  # 

@@ -1,0 +1,4 @@
+language: perl6
+
+script:
+    - PERL6LIB=src prove --ext .t --ext .t6 -v -r --exec=perl6 tests/

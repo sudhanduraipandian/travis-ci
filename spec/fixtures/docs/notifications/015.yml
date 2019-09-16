@@ -1,0 +1,7 @@
+notifications:
+  campfire:
+    rooms:
+      - "[subdomain]:[api token]@[room id]"
+    template:
+      - "%{repository_slug} (%{commit}) : %{message}"
+      - "Build details: %{build_url}"

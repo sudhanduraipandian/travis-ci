@@ -1,0 +1,10 @@
+# Language Groovy
+
+
+
+## Types
+
+* Hash
+
+
+

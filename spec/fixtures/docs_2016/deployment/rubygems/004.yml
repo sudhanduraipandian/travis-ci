@@ -1,0 +1,5 @@
+deploy:
+  - provider: rubygems
+    gem: my-gem
+    api_key: ...
+    on: master

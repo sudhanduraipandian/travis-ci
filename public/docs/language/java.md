@@ -1,0 +1,10 @@
+# Language Java
+
+
+
+## Types
+
+* Hash
+
+
+

@@ -1,0 +1,10 @@
+# Addons
+
+
+
+## Types
+
+* Hash
+
+
+

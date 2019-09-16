@@ -1,0 +1,10 @@
+# Language Cpp
+
+
+
+## Types
+
+* Hash
+
+
+

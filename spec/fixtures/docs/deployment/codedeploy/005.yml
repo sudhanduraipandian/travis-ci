@@ -1,0 +1,4 @@
+deploy:
+  provider: codedeploy
+  wait_until_deployed: true
+  # 

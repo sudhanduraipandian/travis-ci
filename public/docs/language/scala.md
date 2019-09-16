@@ -1,0 +1,10 @@
+# Language Scala
+
+
+
+## Types
+
+* Hash
+
+
+

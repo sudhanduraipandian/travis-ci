@@ -1,0 +1,10 @@
+# Language Erlang
+
+
+
+## Types
+
+* Hash
+
+
+

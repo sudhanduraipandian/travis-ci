@@ -1,0 +1,10 @@
+# Group
+
+
+
+## Types
+
+* String
+
+
+

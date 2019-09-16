@@ -1,0 +1,10 @@
+# Language Go
+
+
+
+## Types
+
+* Hash
+
+
+

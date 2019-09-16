@@ -1,0 +1,9 @@
+deploy:
+  provider: cloudfoundry
+  username: hulk_hogan@example.com
+  password: supersecretpassword
+  api: https://api.run.pivotal.io
+  organization: myawesomeorganization
+  space: staging
+  manifest: manifest-staging.yml       # (optional)  Defaults to manifest.yml.
+  app_name: My app name                # (optional)

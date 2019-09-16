@@ -1,0 +1,10 @@
+# Version
+
+
+
+## Types
+
+* String
+
+
+

@@ -1,0 +1,10 @@
+# Language Haxe
+
+
+
+## Types
+
+* Hash
+
+
+

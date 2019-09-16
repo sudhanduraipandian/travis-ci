@@ -1,0 +1,10 @@
+# Notification Template
+
+
+
+## Types
+
+* String
+
+
+

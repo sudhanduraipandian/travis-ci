@@ -1,0 +1,8 @@
+deploy:
+  edge: true
+  provider: anynines
+  username: johndoe@example.com
+  password: secretpassword
+  organization: myorganization
+  space: staging
+  app_name: My app name                # (optional)

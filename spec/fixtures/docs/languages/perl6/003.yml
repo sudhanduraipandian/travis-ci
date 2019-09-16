@@ -1,0 +1,3 @@
+install:
+    - rakudobrew build-zef
+    - zef --debug --depsonly install .

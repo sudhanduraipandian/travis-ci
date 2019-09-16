@@ -1,0 +1,4 @@
+deploy:
+  provider: packagecloud
+  local-dir: build
+  # 

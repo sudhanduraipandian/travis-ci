@@ -1,0 +1,10 @@
+# Language Smalltalk
+
+
+
+## Types
+
+* Hash
+
+
+

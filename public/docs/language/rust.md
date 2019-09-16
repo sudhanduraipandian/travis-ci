@@ -1,0 +1,10 @@
+# Language Rust
+
+
+
+## Types
+
+* Hash
+
+
+

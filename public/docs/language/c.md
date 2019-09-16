@@ -1,0 +1,10 @@
+# Language C
+
+
+
+## Types
+
+* Hash
+
+
+

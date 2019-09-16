@@ -1,0 +1,10 @@
+# Language D
+
+
+
+## Types
+
+* Hash
+
+
+

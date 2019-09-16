@@ -1,0 +1,9 @@
+install:
+  - "Build script for the app"
+script:
+  - "Test script"
+addons:
+  browserstack:
+    username: "Your BrowserStack username"
+    access_key: "Your BrowserStack access key"
+    app_path: "path to your app file"

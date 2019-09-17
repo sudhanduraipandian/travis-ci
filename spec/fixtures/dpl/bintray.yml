@@ -1,7 +1,0 @@
-provider: bintray
-opts:
-  file: str
-  user: str
-  key: str
-  passphrase: str
-  dry-run: true

@@ -1,4 +1,0 @@
-provider: surge
-opts:
-  project: repo root if not set
-  domain: str

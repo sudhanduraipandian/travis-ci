@@ -1,4 +1,0 @@
-provider: npm
-opts:
-  email: str
-  api-key: str

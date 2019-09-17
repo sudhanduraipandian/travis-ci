@@ -1,4 +1,0 @@
-language: scala
-scala:
-   - 2.12.4
-after_success: "sbt coverage test coverageReport coveralls"

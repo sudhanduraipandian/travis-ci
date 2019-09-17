@@ -1,4 +1,0 @@
-provider: catalyze
-opts:
-  target: str
-  path: str

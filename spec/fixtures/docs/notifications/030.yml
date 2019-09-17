@@ -1,5 +1,0 @@
-notifications:
-  slack:
-    template:
-      - "%{repository_slug} (%{commit}) : %{message}"
-      - "Build details: %{build_url}"

@@ -1,4 +1,0 @@
-language: bash
-
-install:
-  - bash extract.sh

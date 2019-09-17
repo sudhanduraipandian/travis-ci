@@ -1,5 +1,0 @@
-deploy:
-  provider: scalingo
-  user: "<Your username>"
-  password:
-    secure: "YOUR ENCRYPTED PASSWORD"

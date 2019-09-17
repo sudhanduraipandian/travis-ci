@@ -1,7 +1,0 @@
-provider: anynines
-opts:
-  username: str
-  password: str
-  organization: str
-  space: str
-  app_name: str

@@ -1,3 +1,0 @@
-provider: cargo
-opts:
-  token: str

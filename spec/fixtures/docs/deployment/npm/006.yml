@@ -1,3 +1,0 @@
-deploy:
-  provider: npm
-  tag: next

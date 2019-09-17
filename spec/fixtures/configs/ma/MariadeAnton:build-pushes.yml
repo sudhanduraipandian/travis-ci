@@ -1,6 +1,0 @@
-sudo: false
-language: ruby
-
-install: true
-
-script: echo $HOLA

@@ -1,6 +1,0 @@
-language: node_js
-cache: yarn
-script:
-  - yarn lint:prettier
-  - yarn lint:js
-

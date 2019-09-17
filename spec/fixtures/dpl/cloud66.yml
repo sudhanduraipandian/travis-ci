@@ -1,3 +1,0 @@
-provider: cloud66
-opts:
-  redeployment_hook: str

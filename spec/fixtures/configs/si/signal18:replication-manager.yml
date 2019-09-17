@@ -1,7 +1,0 @@
-language: go
-go:
-- tip
-install: true
-script:
-- go test -v .
-- make osc

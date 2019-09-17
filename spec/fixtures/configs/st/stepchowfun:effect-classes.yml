@@ -1,9 +1,0 @@
-os: linux
-dist: trusty
-language: generic
-sudo: required
-services: docker
-script:
-  - while sleep 1m; do echo "=====[ still running ]====="; done &
-  - make docker-build DEPLOY=true
-  - kill %1

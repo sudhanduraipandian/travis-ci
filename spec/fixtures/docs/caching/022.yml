@@ -1,4 +1,0 @@
-env:
-  - FOO=1 BAR=2
-  - FOO=1  BAR=2
-  - BAR=2 FOO=1

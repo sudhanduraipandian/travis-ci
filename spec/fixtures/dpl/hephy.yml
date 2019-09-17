@@ -1,7 +1,0 @@
-provider: hephy
-opts:
-  controller: str
-  username: str
-  password: str
-  app: str
-  cli_version: str

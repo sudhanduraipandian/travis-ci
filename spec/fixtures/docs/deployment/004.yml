@@ -1,4 +1,0 @@
-deploy:
-  provider: s3
-  on:
-    repo: travis-ci/dpl

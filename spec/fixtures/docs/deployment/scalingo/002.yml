@@ -1,4 +1,0 @@
-deploy:
-  provider: scalingo
-  api_key:
-    secure: "YOUR ENCRYPTED PASSWORD"

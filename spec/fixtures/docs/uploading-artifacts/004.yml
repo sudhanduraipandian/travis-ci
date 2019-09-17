@@ -1,4 +1,0 @@
-addons:
-  artifacts:
-    # ...
-    working_dir: out

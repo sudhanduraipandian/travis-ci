@@ -1,8 +1,0 @@
-provider: scalingo
-opts:
-  api_key: str
-  username: str
-  password: str
-  remote: str
-  branch: str
-  app: str

@@ -1,5 +1,0 @@
-git:
-  submodules: false
-before_install:
-  - echo -e "machine github.com\n  login ci-user\n  password $CI_USER_PASSWORD" >~/.netrc
-  - git submodule update --init --recursive

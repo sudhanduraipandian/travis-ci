@@ -1,2 +1,0 @@
-install:
-  - echo 'KEY' >> $HOME/.ssh/known_hosts

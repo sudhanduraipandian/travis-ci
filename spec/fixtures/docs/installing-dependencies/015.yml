@@ -1,4 +1,0 @@
-addons:
-  homebrew:
-    casks:
-    - dotnet-sdk

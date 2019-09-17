@@ -1,4 +1,0 @@
-provider: hackage
-opts:
-  username: str
-  password: str

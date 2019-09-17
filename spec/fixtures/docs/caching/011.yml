@@ -1,3 +1,0 @@
-install:
-  - brew install ccache
-  - export PATH="/usr/local/opt/ccache/libexec:$PATH"

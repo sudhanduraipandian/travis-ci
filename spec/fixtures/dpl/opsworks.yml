@@ -1,3 +1,0 @@
-provider: opsworks
-opts:
-  access-key-id: str

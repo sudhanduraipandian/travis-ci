@@ -1,3 +1,0 @@
-deploy:
-  on:
-    condition: $TRAVIS_HASKELL_VERSION = 8.2.2

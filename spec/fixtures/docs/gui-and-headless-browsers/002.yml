@@ -1,3 +1,0 @@
-dist: xenial
-services:
-  - xvfb

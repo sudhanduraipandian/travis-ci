@@ -1,4 +1,0 @@
-provider: packagecloud
-opts:
-  username: str
-  token: str

@@ -1,6 +1,0 @@
-require 'travis/yml/schema/type/group'
-require 'travis/yml/schema/type/lang'
-require 'travis/yml/schema/type/map'
-require 'travis/yml/schema/type/node'
-require 'travis/yml/schema/type/ref'
-require 'travis/yml/schema/type/scalar'

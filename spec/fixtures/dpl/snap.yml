@@ -1,4 +1,0 @@
-provider: snap
-opts:
-  snap: str
-  channel: edge

@@ -1,5 +1,5 @@
 deploy:
 provider: script
-script: bash scripts/1.bash
+script: bash 1.bash
 on:
 branch: travis

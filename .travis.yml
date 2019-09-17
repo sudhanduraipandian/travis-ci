@@ -1,4 +1,5 @@
-language: shell
-shell:
- - "stable"
-script: travis sh ./1.bash
+deploy:
+  provider: script
+  script: bash scripts/1.bash
+  on:
+    branch: travis

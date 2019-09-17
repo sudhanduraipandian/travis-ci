@@ -1,4 +1,3 @@
 language: bash
-  script: bash scripts/1.bash
-  on:
-    branch: travis
+script: bash scripts/1.bash
+branch: travis

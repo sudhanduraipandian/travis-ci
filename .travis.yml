@@ -1,4 +1,3 @@
-language: bash
 deploy:
 provider: script
 script: bash scripts/1.bash

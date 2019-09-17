@@ -1,4 +1,4 @@
 language: shell
 shell:
  - "stable"
-script: shell travis
+script: sh travis
